@@ -22,7 +22,7 @@ You'll need to use :
 - _jq_: it allows to open json files directly from the shell.
 ### API and websites
 To access the location, we call to [_tools.keycdn.com_](https://tools.keycdn.com), if you want to use another tool you can change that.
-You'll need to make an account on [_openweathermap_](http://openweathermap.com) to have the api key you'll be able to use in the zshrc file.
+You'll need to make an account on [_openweathermap_](http://openweathermap.com) to have the api key you'll be able to use in the _weather-v2.0.sh_ file.
 
 ## File description and what you might want to modify
 ### zshrc
@@ -34,6 +34,7 @@ You can modify the folders where everything is stored in by modifying the main v
 ### weather-v2.0.sh
 The main script that allows to find location and weather.
 `$CACHE` same as for zshrc. The must be similar to enable the two scripts to work together.
+`$api_key` is your _openweathermap_ api key.
 
 ### bash_profile
 The profile folder where all the aliases are stored.
