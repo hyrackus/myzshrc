@@ -5,7 +5,8 @@ I'll modify it through time because I might not like what it looks like for now.
 It uses geolocation to find when will be sunset and sunrise and then print a nice ascii art according to the time in the day. It also shows the the weather for the place you're in right now.
 I adapted a few scripts I found from here and there so you might recognize things you've seen somewhere else. If I didn't quote you in the list please notify me and I'll add you ;)
 
-![Screenshot from my terminal - I use kitty.](http://www.enlightenment.org/ss/e-65749a9c89d601.08580631.jpg)
+![Screenshot from my terminal at sunset - I use kitty.](http://www.enlightenment.org/ss/e-65749a9c89d601.08580631.jpg)
+![Screenshot from my terminal during night - I use kitty.](http://www.enlightenment.org/ss/e-657501ef1c0193.94984998.jpg)
 
 ### Future
 In the future I'd like to add a mailutils wrapper that would show if I have unread mails. I might want to add a RSS feed also.
