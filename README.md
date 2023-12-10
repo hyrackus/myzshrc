@@ -18,7 +18,7 @@ You'll need to use :
 - _iwctl_: it's my network manager on systemd, I use it to get the ip adress,
 - _zsh-autosuggestion_: it allows to do autocomplete in zsh, it's really nice,
 - _oh-my-zsh_: plenty of different features, among them zsh theme management,
-- _lolcat_: to generate nice looking DNA loops around my screen,
+- _lolcat_: to generate nice looking DNA strands around my screen,
 - _jq_: it allows to open json files directly from the shell.
 ### API and websites
 To access the location, we call to [_tools.keycdn.com_](https://tools.keycdn.com), if you want to use another tool you can change that.
